@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceuelete",
+        "uuid": 4864816,
+        "checksum": "86vtj9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
